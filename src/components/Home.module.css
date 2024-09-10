@@ -1,0 +1,48 @@
+
+  
+.container{
+    text-align: center;
+    padding: 20px;
+    background-image: url(/src/assets/jonnelle-yankovich-4cTr_KbBrnY-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.welcome{
+    color: white;
+    font-size: 180px;
+    font-family: "Matemasie", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.p2{
+    color: white;
+    font-size: 25px;
+}
+.link {
+    box-sizing: border-box;
+    border: 2px solid green;
+    background-color: rgb(1, 150, 26);
+    border-radius: 10px;
+    margin: 10px 0;
+    color: #ffffff;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .span{
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+
+  }
+  .link:hover{
+    font-size: 50px;
+    color: grey;
+  }
